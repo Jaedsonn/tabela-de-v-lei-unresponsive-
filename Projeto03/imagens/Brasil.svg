@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 892 600" style="enable-background:new 0 0 892 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#009B3A;}
+	.st1{clip-path:url(#SVGID_2_);fill:#FEDF00;}
+	.st2{clip-path:url(#SVGID_2_);fill:#002776;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{clip-path:url(#SVGID_4_);}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#939598;}
+</style>
+<title>Brasil</title>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M30.9,0h830.1C878.2,0,892,13.8,892,30.9V569c0,17.1-13.8,30.9-30.9,30.9H30.9C13.8,600,0,586.1,0,569V30.9
+			C0,13.8,13.8,0,30.9,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="-2" y="-8" class="st0" width="897.1" height="628"/>
+	<path class="st1" d="M74.3,306l372.3,237.7L818.9,306L446.6,68.2L74.3,306z"/>
+	<circle class="st2" cx="446.6" cy="306" r="157"/>
+	<g class="st3">
+		<defs>
+			<circle id="SVGID_3_" cx="446.6" cy="306" r="157"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st4">
+			<path class="st5" d="M-24.4,620c0-210.6,170.7-381.3,381.3-381.3S738.1,409.4,738.1,620h-22.4c0-198.2-160.7-358.9-358.9-358.9
+				S-2,421.8-2,620H-24.4z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g id="Layer_1-2">
+		<path class="st6" d="M861.1,6c13.7,0.1,24.8,11.2,24.9,24.9V569c0,13.8-11.1,24.9-24.9,24.9h0H30.9c-13.7,0-24.9-11-24.9-24.7
+			c0,0,0,0,0-0.1V30.9C6.1,17.2,17.2,6.1,30.9,6H861.1 M861.1,0H30.9C13.9,0,0,13.8,0,30.8c0,0,0,0.1,0,0.1l0,0V569
+			c-0.1,17.1,13.7,30.9,30.8,31c0,0,0.1,0,0.1,0H861c17,0,30.9-13.8,30.9-30.8c0,0,0-0.1,0-0.1V30.9c0.1-17-13.6-30.8-30.5-30.9
+			C861.3,0,861.2,0,861.1,0z"/>
+	</g>
+</g>
+</svg>
